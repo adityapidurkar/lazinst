@@ -46,6 +46,7 @@ mkdir instagram
 mkdir whatsapp
 mkdir facebook
 mkdir universal
+mkdir themes
 #tools
 cd bomb
 git clone https://github.com/TheSpeedX/TBomb
@@ -61,6 +62,8 @@ cd ..
 cd universal
 git clone https://github.com/khansaad1275/maskphish
 git clonehttps://github.com/s0md3v/ReconDog
-mkdir instagram
+cd instagram
 git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
 git clone https://github.com/th3unkn0n/osi.ig.git
+cd themes
+https://github.com/adi1090x/termux-style
