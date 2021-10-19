@@ -4,6 +4,7 @@
 #Internet Consumed :- Not Defined
 #Date created :-15 October 2021
 #Owner :- GD
+cd $home
 pkg install curl
 pkg install perl
 pkg install php
